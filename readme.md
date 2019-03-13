@@ -11,7 +11,7 @@ Install
 Get Started:
 =========
 **To add a new entry (domain/zone):**    
-`cf-cache-purger add`
+`cloudflare-cache-purger add`
 
 Prompt:   
 `? Enter domain name:` <DOMAIN NAME>
@@ -26,6 +26,6 @@ Of course you can always add the data directly to the config.json
 
 
 **To Purge Domain's CloudFlare Cache:**
-`cf-cache-purger`
+`cloudflare-cache-purger`
 
 and select the domain from the list.

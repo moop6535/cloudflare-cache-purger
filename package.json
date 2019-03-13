@@ -5,7 +5,7 @@
   "version": "1.0.4",
   "description": "Clears CloudFlare Cache",
   "bin": {
-    "cf-cache-purger": "bin/cloudflare-cache-purger.js"
+    "cloudflare-cache-purger": "bin/cloudflare-cache-purger.js"
   },
   "main": "./lib/index.js",
   "scripts": {
