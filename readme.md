@@ -1,7 +1,7 @@
 CloudFlare Cache Purger
 ========================
 
-Quickly & easily clear cloudflare cache! Use cases are primarily if you manage more than 1 CloudFlare account and/or a lot of different domains.
+Quickly & easily clear CloudFlare cache! Use cases are primarily if you manage more than 1 CloudFlare account and/or a lot of different domains.
 
 Install
 =========
@@ -14,12 +14,13 @@ Get Started:
 `cf-cache-purger add`
 
 Prompt:   
-```
-? Enter domain name: <DOMAIN NAME>  
-? Enter email: <CF ACCOUNT EMAIL>
-? Enter api key: <CF API KEY>
-? Enter zone id: <CF ZONE ID OF DOMAIN>
-```
+`? Enter domain name:` <DOMAIN NAME>
+
+`? Enter email:` <CF ACCOUNT EMAIL>
+
+`? Enter api key:` <CF API KEY>
+
+`? Enter zone id:` <CF ZONE ID OF DOMAIN>
 
 Of course you can always add the data directly to the config.json
 
