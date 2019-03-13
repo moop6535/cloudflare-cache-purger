@@ -1,7 +1,7 @@
 CloudFlare Cache Purger
 ========================
 
-[![npm](https://img.shields.io/npm/dt/update-git-origin.svg?style=flat-square&label=npm%20downloads)](https://www.npmjs.com/package/cloudflare-cache-purger)
+[![npm](https://img.shields.io/npm/dt/cloudflare-cache-purger.svg?style=flat-square&label=npm%20downloads)](https://www.npmjs.com/package/cloudflare-cache-purger)
 
 Quickly & easily clear CloudFlare cache! Use cases are primarily if you manage more than 1 CloudFlare account and/or a lot of different domains.
 
