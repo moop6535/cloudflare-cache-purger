@@ -5,7 +5,7 @@ Quickly & easily clear CloudFlare cache! Use cases are primarily if you manage m
 
 Install
 =========
-`npm i -g cf-cache-purger`
+`npm i -g cloudflare-cache-purger`
 
 
 Get Started:
