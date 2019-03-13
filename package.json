@@ -5,11 +5,11 @@
   "version": "1.0.2",
   "description": "Clears CloudFlare Cache",
   "bin": {
-    "cf-cache-purger": "bin/cf-purger.js"
+    "cf-cache-purger": "bin/cloudflare-cache-purger.js"
   },
   "main": "./lib/index.js",
   "scripts": {
-    "start": "node ./bin/cf-purger.js"
+    "start": "node ./bin/cloudflare-cache-purger.js"
   },
   "preferGlobal": "true",
   "dependencies": {
