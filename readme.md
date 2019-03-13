@@ -14,10 +14,12 @@ Get Started:
 `cf-cache-purger add`
 
 Prompt:   
-`? Enter domain name:` <DOMAIN NAME>  
-`? Enter email:` <CF ACCOUNT EMAIL>
-`? Enter api key:` <CF API KEY>
-`? Enter zone id:` <CF ZONE ID OF DOMAIN>
+```
+? Enter domain name: <DOMAIN NAME>  
+? Enter email: <CF ACCOUNT EMAIL>
+? Enter api key: <CF API KEY>
+? Enter zone id: <CF ZONE ID OF DOMAIN>
+```
 
 Of course you can always add the data directly to the config.json
 
