@@ -2,7 +2,7 @@
   "author": "Moop",
   "license": "ISC",
   "name": "cloudflare-cache-purger",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Clears CloudFlare Cache",
   "bin": {
     "cf-cache-purger": "bin/cf-purger.js"
