@@ -1,0 +1,29 @@
+{
+  "author": "Moop",
+  "license": "ISC",
+  "name": "cf-cache-purger",
+  "version": "1.0.0",
+  "description": "Clears CloudFlare Cache",
+  "bin": {
+    "update-git-origin": "bin/cf-purger.js"
+  },
+  "main": "./lib/index.js",
+  "scripts": {
+    "start": "node ./bin/cf-purger.js"
+  },
+  "preferGlobal": "true",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "inquirer": "^3.0.6",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moop6535/cloudflare-cache-purger.git"
+  },
+  "bugs": {
+    "url": "https://github.com/moop6535/cloudflare-cache-purger.git/issues"
+  },
+  "homepage": "https://github.com/moop6535/cloudflare-cache-purger.git#readme"
+}

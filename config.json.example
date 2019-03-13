@@ -1,0 +1,12 @@
+{
+  "domainName1": {
+    "email": "example1@example1.com",
+    "key": "YOURKEY",
+    "zone": "DOMAINZONE"
+  },
+  "domainName2": {
+    "email": "example2@example2.com",
+    "key": "YOURKEY",
+    "zone": "DOMAINZONE"
+  }
+}
