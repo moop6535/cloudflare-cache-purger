@@ -28,6 +28,7 @@ Of course you can always add the data directly to the config.json
 
 
 **To Purge Domain's CloudFlare Cache:**
+
 `cloudflare-cache-purger`
 
 and select the domain from the list.
