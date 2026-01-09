@@ -14,7 +14,7 @@
   "preferGlobal": "true",
   "dependencies": {
     "fs": "0.0.1-security",
-    "inquirer": "^3.0.6",
+    "inquirer": "^12.10.0",
     "request": "^2.88.0"
   },
   "devDependencies": {},
